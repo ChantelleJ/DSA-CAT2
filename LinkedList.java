@@ -65,9 +65,9 @@ public class LinkedList {
         LinkedList list = new LinkedList();
 
         // Test insertions
-        list.insertAtBeginning(10);
-        list.insertAtEnd(20);
-        list.insertAtBeginning(5);
+        list.insertAtBeginning(22);
+        list.insertAtEnd(17);
+        list.insertAtBeginning(9);
 
         // Display the list
         list.display();
