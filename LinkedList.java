@@ -1,5 +1,5 @@
 // LinkedList.java
-public class LinkedList {clear
+public class LinkedList {
     // Node class to represent each element in the list
     private static class Node {
         int data; // Data stored in the node
