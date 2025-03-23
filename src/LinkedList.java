@@ -1,5 +1,5 @@
 // LinkedList.java
-public class LinkedList {clear
+public class LinkedList {
     // Node class to represent each element in the list
     private static class Node {
         int data; // Data stored in the node
@@ -65,9 +65,9 @@ public class LinkedList {clear
         LinkedList list = new LinkedList();
 
         // Test insertions
-        list.insertAtBeginning(10);
-        list.insertAtEnd(20);
-        list.insertAtBeginning(5);
+        list.insertAtBeginning(22);
+        list.insertAtEnd(17);
+        list.insertAtBeginning(9);
 
         // Display the list
         list.display();
